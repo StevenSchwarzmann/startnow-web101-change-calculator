@@ -1,0 +1,92 @@
+
+/*
+body {
+    
+
+}
+
+button {
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+    background-color: salmon;
+    border-bottom: 2px grey solid;
+    
+}
+
+.inputbox1{
+    margin: 2em;
+    float: left;
+    width: 350px;
+}
+
+.inputbox2 {
+    float: right;
+    width: 350px;
+}
+
+.header {
+    font-size: 18px;
+    font-weight: bolder;
+    background-color: rgb(216, 216, 216);
+    width: 800px;
+    height: 100px;
+   
+}
+
+.header1 {
+    float:left;
+    
+}
+
+.header2 {
+    float: auto;
+    text-align: left;
+}
+
+#amount-due {
+    border-radius: 1em;
+    border-bottom: 3px grey solid;
+}
+
+#amount-received {
+    border-radius: 1em;
+    border-bottom: 3px grey solid;
+}
+
+.mid {
+    background-color: rgb(216, 216, 216);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: auto;
+    font-weight: bolder;
+}
+
+.footer {
+    background-color: rgb(216, 216, 216);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 150px;
+    font-weight: bolder;
+}
+
+.qout{
+ float: left;
+ margin: 4em;
+}
+
+.dout{
+    float: left;
+    margin: 4em;
+}
+
+.nout{
+    float: left;
+    margin: 4em;
+}
+
+.pout{
+    float: left;
+    margin: 4em;
+}
+
+*/
